@@ -10,6 +10,13 @@ function Youtube() {
     window.location.href = "https://www.youtube.com/@waffwrw";
 }
 
+function CatAndroid() {
+    window.location.href = "https://drive.google.com/file/d/1P3hXuPHQHZKfjMdUioaE2tRCi8cqNQTf/view?usp=share_link";
+}
+
+function CatWindows() {
+    window.location.href = "https://drive.google.com/file/d/1q0lAypiFudnhf3wzbQ9B9GxNkwXFH4f9/view?usp=share_link";
+}
 
 var out = document.getElementById("output");
    
