@@ -11,11 +11,11 @@ function Youtube() {
 }
 
 function CatAndroid() {
-    window.location.href = "https://drive.google.com/file/d/1P3hXuPHQHZKfjMdUioaE2tRCi8cqNQTf/view?usp=share_link";
+    window.location.href = "https://drive.google.com/file/d/1Fzz2Bm2yixUgVOsA6sv4QvlE4azvyXy2/view?usp=share_link";
 }
 
 function CatWindows() {
-    window.location.href = "https://drive.google.com/file/d/1q0lAypiFudnhf3wzbQ9B9GxNkwXFH4f9/view?usp=share_link";
+    window.location.href = "https://drive.google.com/file/d/1xMBMJvIIoBYDH-tLoFtzWd0VUSEKhn2j/view?usp=share_link";
 }
 
 var out = document.getElementById("output");
