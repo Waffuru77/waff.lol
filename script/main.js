@@ -11,11 +11,7 @@ function Youtube() {
 }
 
 function CatAndroid() {
-    window.location.href = "https://drive.google.com/file/d/1uaZrMyhTCyy5G-v5jminp5Bq0-krmtjL/view?usp=sharing";
-}
-
-function CatWindows() {
-    window.location.href = "https://drive.google.com/file/d/1g_Mp2KCmctiOFvRxCYGHYVMeYpfK7dJw/view?usp=sharing";
+    window.location.href = "https://drive.google.com/file/d/18ob4oFdeImJV0nbjmN3iLVlZec6gM28W/view?usp=sharing";
 }
 
 var out = document.getElementById("output");
