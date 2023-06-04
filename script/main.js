@@ -14,6 +14,10 @@ function CatAndroid() {
     window.location.href = "https://drive.google.com/file/d/1tz_ctSVTV3yDimjKIWCFu4Og7mgdWWiC/view?usp=sharing";
 }
 
+function CatWindows() {
+    window.location.href = "https://drive.google.com/file/d/1RKGjlQBdwIcLVci1NwaNEkr5Bri2byzG/view?usp=sharing";
+}
+
 var out = document.getElementById("output");
    
 function getWord() {
