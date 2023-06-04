@@ -18,6 +18,10 @@ function CatWindows() {
     window.location.href = "https://drive.google.com/file/d/1xkyuMGzONbM2msPADBhmgziHk_O7JSXo/view?usp=sharing";
 }
 
+function CatIOS() {
+    window.location.href = "https://drive.google.com/file/d/1uQs4c5436hy1gU4tL6w6fVVk-iR9Pz3H/view?usp=drive_link";
+}
+
 var out = document.getElementById("output");
    
 function getWord() {
